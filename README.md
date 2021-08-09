@@ -3,8 +3,8 @@ Simple image compressor that helps you to compress multiple images at a single c
 
 ----------------------------Requirements-----------------------------
 
-pillow Library (pip install Pillow)
-os module (Already avilable in latest version)
+1. pillow Library (pip install Pillow)
+2. os module (Already avilable in latest version)
 
 -----------------------------How To Use------------------------------
 
