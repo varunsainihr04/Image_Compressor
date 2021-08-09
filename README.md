@@ -1,13 +1,12 @@
 # Image_Compressor
 Simple image compressor that helps you to compress multiple images at a single click.........
 
-
-----------------------------Requirements-----------------------------
+#Requirements
 
 pillow Library (pip install Pillow)
 os module (Already avilable in latest version)
 
------------------------------How To Use------------------------------
+#
 
 1. Download the .Zip file from github.
 2. Extract the file.
