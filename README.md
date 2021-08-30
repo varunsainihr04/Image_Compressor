@@ -8,7 +8,7 @@ Simple image compressor that helps you to compress multiple images at a single c
 
 -----------------------------How To Use------------------------------
 
-1. Download the .Zip file from github.
+1. Download the .Zip file (Code) from github.
 2. Extract the file.
 3. Then make two folders named input and output at the place where main.py file exists.
 4. Put your images(that you want to compress) in the input folder.
