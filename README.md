@@ -1,6 +1,8 @@
-# Image_Compressor
-Simple image compressor that helps you to compress multiple images at a single click.........
-
+<div align="center">
+  <img src="/Images"/>
+  
+Compress multiple images in a single click
+</div>
 ----------------------------Requirements-----------------------------
 
 1. pillow Library (pip install Pillow)
