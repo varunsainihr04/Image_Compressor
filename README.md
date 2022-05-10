@@ -3,12 +3,13 @@
   
 Compress multiple images in a single click
 </div>
-----------------------------Requirements-----------------------------
 
-1. pillow Library (pip install Pillow)
-2. os module (Already avilable in latest version)
+<h1><b>Requirements</b></h1>
 
------------------------------How To Use------------------------------
+1. Pillow Library (pip install Pillow)
+2. OS module (Already avilable in latest version)
+
+<h1><b>How To Use the code</b></h1>
 
 1. Download the .Zip file (Code) from github.
 2. Extract the file.
