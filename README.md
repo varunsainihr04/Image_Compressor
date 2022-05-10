@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="/Images"/>
+  <img src="/Images/img.png"/>
   
 Compress multiple images in a single click
 </div>
