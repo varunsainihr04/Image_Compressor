@@ -11,7 +11,7 @@ Compress multiple images in a single click
 
 <h1><b>How To Use the code</b></h1>
 
-1. Download the .Zip file (Code) from github.
+1. Download the .Zip file (Code) or clone from github.
 2. Extract the file.
 3. Then make two folders named input and output at the place where main.py file exists.
 4. Put your images(that you want to compress) in the input folder.
