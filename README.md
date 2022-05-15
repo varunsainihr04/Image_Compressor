@@ -7,7 +7,6 @@ Compress multiple images in a single click without compromising the Image qualit
 <h1><b>Requirements</b></h1>
 
 1. Pillow Library (pip install Pillow)
-2. OS module (Already avilable in latest version)
 
 <h1><b>Installation And Usage</b></h1>
 
