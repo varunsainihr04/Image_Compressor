@@ -9,7 +9,7 @@ Compress multiple images in a single click
 1. Pillow Library (pip install Pillow)
 2. OS module (Already avilable in latest version)
 
-<h1><b>How To Use the code</b></h1>
+<h1><b>Installation And Usage</b></h1>
 
 1. Download the .Zip file (Code) or clone from github.
 2. Extract the file.
@@ -19,3 +19,6 @@ Compress multiple images in a single click
 6. Save and run the main.py file.
 7. After completion open the output folder and here are your compressed images.
 8. Enjoy!!!
+
+<h1><b>Errors</b></h1>
+If you face any error then <a href="mailto:varunsaini98174@gmail.com">email<a> me you your error
