@@ -1,7 +1,7 @@
 <div align="center">
   <img src="/Images/img.png"/>
   
-Compress multiple images in a single click
+Compress multiple images in a single click without compromising the Image quality
 </div>
 
 <h1><b>Requirements</b></h1>
