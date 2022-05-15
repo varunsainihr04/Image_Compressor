@@ -4,11 +4,11 @@
 Compress multiple images in a single click without compromising the Image quality
 </div>
 
-<h1><b>Requirements</b></h1>
+<h2><b>Requirements</b></h2>
 
 1. Pillow Library (pip install Pillow)
 
-<h1><b>Installation And Usage</b></h1>
+<h2><b>Installation And Usage</b></h2>
 
 1. Download the .Zip file (Code) or clone from github.
 2. Extract the file.
@@ -21,5 +21,5 @@ Compress multiple images in a single click without compromising the Image qualit
 
 <img src="Images/img1.png" height="auto" width="auto"/>
 
-<h1><b>Errors</b></h1>
+<h2><b>Errors</b></h2>
 If you face any error then <a href="mailto:varunsaini98174@gmail.com">email<a> me you your error
