@@ -22,4 +22,4 @@ Compress multiple images in a single click without compromising the Image qualit
 <img src="Images/img1.png" height="auto" width="auto"/>
 
 <h2><b>Errors</b></h2>
-If you face any error then <a href="mailto:varunsaini98174@gmail.com">email<a> me you your error
+If you face any error then <a href="mailto:varunsaini98174@gmail.com">email<a> me your error
