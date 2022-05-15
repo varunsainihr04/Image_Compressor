@@ -3,7 +3,7 @@ from PIL import Image
 import os
 
 
-width = 800
+width = 1080
 source = "input/"
 destination = "output/"
 
@@ -25,7 +25,7 @@ def entire_directory(source, destination, width):
         old_pic = source + "/" +file
         new_pic = destination + "/" +file
         resize_pic(old_pic, new_pic, width)
-        print(i, "done")
+        print(i, "image compressed")
 
 
 entire_directory(source, destination, width)
