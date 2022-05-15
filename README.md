@@ -20,5 +20,7 @@ Compress multiple images in a single click without compromising the Image qualit
 7. After completion open the output folder and here are your compressed images.
 8. Enjoy!!!
 
+<img src="Images/img1.png" height="auto" width="auto" >
+
 <h1><b>Errors</b></h1>
 If you face any error then <a href="mailto:varunsaini98174@gmail.com">email<a> me you your error
