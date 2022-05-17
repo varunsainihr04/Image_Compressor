@@ -36,6 +36,7 @@ TOTAL_COMPRESSED = 0
 TOTAL_GAIN = 0
 TOTAL_FILES = 0
 QUALITY = int(selectquality)
+time.sleep(1)
 
 
 def compress(location):
@@ -124,11 +125,10 @@ def compress(location):
                     print('File not image, copying instead: ' + input_path)
                     subprocess.call('cp ' + input_file + ' ' + output_file, shell=True)
 
-
 if __name__ == '__main__':
     start_path = os.path.dirname(os.path.abspath(__file__)) + os.sep + r"input"
     
-    # ask if .pgn images should automatically converted to .jpg
+    # ask if .png images should automatically converted to .jpg
     CONVERT_PNG_TO_JPG = input('Would you like to convert .png images to .jpg? (y/n): ') == 'y'
     TOTAL_GAIN = 0
     compress(start_path)
@@ -139,5 +139,3 @@ if __name__ == '__main__':
         "Original: " + f'{TOTAL_ORIGINAL:,.2f}' + " megabytes || " + "New Size: " + f'{TOTAL_COMPRESSED:,.2f}' +
         " megabytes" + " || Gain: " + f'{TOTAL_GAIN:,.2f}' + " megabytes ~" + f'{(TOTAL_GAIN / TOTAL_ORIGINAL) * 100:,.2f}'
         + "% reduction")
-
-time.sleep(secs)
