@@ -1,10 +1,12 @@
-<div align="left">
-  <img src="/Images/img1.svg" align="10px 10px" height="10%" width="10%"/>
-  
-<b size="20%" >Compress and Optimise multiple images in a single click without compromising the Image quality</b>
+<div align="center">
+  <img src="/Images/img1.svg" height="10%" width="10%"/>
 </div>
 
-<h2><b>Prerequisites</b></h2>
+<h2><b>About</b></h2>
+  Compress and Optimise multiple images in a single click without compromising the Image quality
+
+  
+<h2>  <b>Prerequisites</b>  </h2>
 
 Pillow 
 ```
