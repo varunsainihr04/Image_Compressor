@@ -1,21 +1,20 @@
 <div align="center">
   <img src="/Images/img.png"height="auto" width="auto"/>
   
-Compress multiple images in a single click without compromising the Image quality
+<b>Compress and Optimise multiple images in a single click without compromising the Image quality</b>
 </div>
 
-<h2><b>Requirements</b></h2>
+<h2><b>Prerequisites</b></h2>
 
-1. Pillow Library (pip install Pillow)
-
+==> Pillow 
+```
+ pip install Pillow
+```
 <h2><b>Installation And Usage</b></h2>
 
-1. Download the .Zip file (Code) or clone from github.
-2. Extract the file.
-3. Then make two folders named input and output at the place where main.py file exists.
-4. Put your images(that you want to compress) in the input folder.
-5. Now open the main.py file with a text editor and set the width(6th line) as you want for your images.
-6. Save and run the main.py file.
+1. Download the Code
+4. Put your images<i>(that you want to compress)</i> in the input folder
+6. Run the main.py file and select your prefered options
 7. After completion open the output folder and here are your compressed images.
 8. Enjoy!!!
 
