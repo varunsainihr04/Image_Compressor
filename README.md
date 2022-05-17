@@ -6,7 +6,7 @@
 
 <h2><b>Prerequisites</b></h2>
 
-==> Pillow 
+Pillow 
 ```
  pip install Pillow
 ```
@@ -17,6 +17,8 @@
 6. Run the main.py file and select your prefered options
 7. After completion open the output folder and here are your compressed images.
 8. Enjoy!!!
+
+<h2><b>Screenshots</b></h2>
 
 <img src="Images/img1.png" height="auto" width="auto"/>
 
