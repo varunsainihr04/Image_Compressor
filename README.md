@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="/Images/img.png"height="auto" width="auto"/>
+  <img src="/Images/img.svg"height="auto" width="80%"/>
   
 <b>Compress and Optimise multiple images in a single click without compromising the Image quality</b>
 </div>
