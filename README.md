@@ -1,7 +1,7 @@
 <div align="center">
   <img src="/Images/img.svg"height="80%" width="80%"/>
   
-<b>Compress and Optimise multiple images in a single click without compromising the Image quality</b>
+<b size="20%" >Compress and Optimise multiple images in a single click without compromising the Image quality</b>
 </div>
 
 <h2><b>Prerequisites</b></h2>
