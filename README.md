@@ -22,7 +22,8 @@ Pillow
 
 <h2><b>Screenshots</b></h2>
 
-<img src="Images/img1.png" height="auto" width="auto"/>
+ <img src="/Images/img3.svg" height="10%" width="10%"/>
+ <img src="/Images/img.svg" height="10%" width="10%"/>
 
 <h2><b>Errors</b></h2>
 If you face any error then <a href="mailto:varunsaini98174@gmail.com">email<a> me your error
