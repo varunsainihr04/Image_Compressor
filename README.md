@@ -1,6 +1,5 @@
 <div align="center">
-<!--   <img src="/Images/img1.svg" height="150px"/> -->
-  <img src="/Images/img2.svg" height="200px"/>
+  <img src="/Images/img2.svg" height="150px"/>
 </div>
 
 <h2><b>About</b></h2>
