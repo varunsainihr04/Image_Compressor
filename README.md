@@ -16,7 +16,7 @@ Pillow
 
 1. Download the code
 4. Put your images<i>(that you want to compress)</i> in the input folder
-6. Run the main.py file and select your prefered options
+6. Run the main.py file by clicking only and select your prefered options
 7. After completion open the output folder and here are your compressed images.
 8. Enjoy!!!
 
